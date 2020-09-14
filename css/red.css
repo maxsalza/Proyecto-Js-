@@ -1,0 +1,17 @@
+body {
+    background: url(/img/rojo.jpg);
+    background-attachment: fixed;
+    /*esto sirve para que siempre muestre la imagen, sin esta propiedad mostraba varias imagenes*/
+}
+
+#logo{
+    background: #CA3413;
+}
+
+#menu li :hover {
+    background: #CA3413;
+}
+
+.button-more {
+    background: #CA3413;
+}

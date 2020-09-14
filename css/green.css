@@ -1,0 +1,18 @@
+body {
+    background: url(/img/hojas.jpg);
+    background-attachment: fixed;
+    /*esto sirve para que siempre muestre la imagen, sin esta propiedad mostraba varias imagenes*/
+}
+
+#logo{
+    background: #235e3d;
+}
+
+#menu li :hover {
+    background: #235e3d;
+}
+
+.button-more {
+    background: #235e3d;
+}
+
